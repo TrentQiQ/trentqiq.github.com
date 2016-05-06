@@ -12,11 +12,11 @@ url: "http://trentqiq.github.io/"              # your host, for absolute URL
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     starqi7@126.com
+zhihu_username:     starqi7
+github_username:    TrentQiQ
+#twitter_username:  starqi7
+facebook_username:  starqi7
 
 
 
@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "世界那么大，多玩玩看看。"
+sidebar-avatar: /img/pkq.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
