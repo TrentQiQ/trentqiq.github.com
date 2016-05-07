@@ -12,10 +12,11 @@ tags:
 
 
 * 安装路径问题
+
 * gem源问题
 ---
 
-##参考
+#参考
 
 安装步骤参考这个[jekyll安装](http://www.pchou.info/web-build/2013/01/05/build-github-blog-page-04.html),安装路径确保没有中文，空格之类的字符，最好安装在如C盘或D根目录
 
