@@ -6,7 +6,7 @@ date:       2016-05-06
 author:     "QiQ"
 header-img: "img/jekyll.jpg"
 tags:
-    - jekyll
+    - 生活
 ---
 ## 前言
 
