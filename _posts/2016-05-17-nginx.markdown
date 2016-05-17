@@ -21,7 +21,9 @@ tags:
 #### 1. 导入外部软件库
 
 `rpm -Uvh http://dl.iuscommunity.org/pub/ius/stable/Redhat/6/i386/epel-release-6-5.noarch.rpm` 
-`rpm -Uvh http://dl.iuscommunity.org/pub/ius/stable/Redhat/6/i386/ius-release-1.0-10.ius.el6.noarch.rpm`  
+
+`rpm -Uvh http://dl.iuscommunity.org/pub/ius/stable/Redhat/6/i386/ius-release-1.0-10.ius.el6.noarch.rpm` 
+
 `rpm -Uvh http://nginx.org/packages/centos/6/noarch/RPMS/nginx-release-centos-6-0.el6.ngx.noarch.rpm`
 	 
 删除该行的注释（vi /etc/yum.repos.d/ius.repo）
@@ -31,8 +33,11 @@ tags:
 `yum install -y nginx`
 
 #### 3. 启动nginx
+
 `service nginx start   #启动nginx`
+
 `chkconfig nginx on    #设置nginx为开机自启动` 
+
 `service nginx status  #查看nginx运行状态`
 
 ### 编译安装方式
