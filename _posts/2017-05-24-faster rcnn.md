@@ -4,7 +4,7 @@ title:      "faster rcnn配置记录"
 subtitle:   "自己数据集训练、测试模型"
 date:       2017-05-24
 author:     "QiQ"
-header-img: "BingWallpaper-2017-05-24.jpg"
+header-img: "img/BingWallpaper-2017-05-24.jpg"
 tags:
     - caffe
     - faster rcnn
