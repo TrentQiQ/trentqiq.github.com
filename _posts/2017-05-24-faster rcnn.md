@@ -10,7 +10,7 @@ tags:
     - faster rcnn
     - Ubuntu
 ---
-## caffe ssd安装
+## faster rcnn安装
 >[python版本faster rcnn github地址](https://github.com/rbgirshick/py-faster-rcnn)  
 >[MATLAB版本](https://github.com/ShaoqingRen/faster_rcnn)  
 
