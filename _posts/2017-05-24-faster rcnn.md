@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "faster rcnn配置记录"
-subtitle:   "自己数据集训练、测试模型"
+subtitle:   "用自己的数据集训练模型并测试"
 date:       2017-05-25
 author:     "QiQ"
 header-img: "img/BingWallpaper-2017-05-25.jpg"
@@ -38,6 +38,12 @@ py-faster-rcnn工程上，默认使用的是cudnn-v4，如果直接使用cudnn-v
 >[如何在py-faster-rcnn上使用最新的cudnn v5加速库](http://blog.csdn.net/kexinmcu/article/details/53178428)
 
 ## 训练模型
+>[Faster-RCNN+ZF用自己的数据集训练模型(Python版本)](http://blog.csdn.net/sinat_30071459/article/details/51332084)
+
+>[RCNN（六）：Ubuntu 15.04 使用Faster RCNN训练VOC](http://blog.csdn.net/u011587569/article/details/52166775)
+
+>[Py-faster-rcnn实现自己的数据train和demo](http://blog.csdn.net/samylee/article/details/51201744)
+
 
 ## 测试
 训练模型时只有两个类别（背景+person），在运行demo.py使用自己训练的模型检测图片时，还需要修改py-faster-rcnn/models/pascal_voc/VGG16/faster_rcnn_alt_opt文件夹下的faster_rcnn_test.pt文件。根据自己训练的类别修改num_output参数。
@@ -63,7 +69,7 @@ layer {
 ```
 参考：
 
->[Faster-RCNN+ZF用自己的数据集训练模型(Python版本)](http://blog.csdn.net/sinat_30071459/article/details/51332084)
+
 
 >[目标检测--Faster RCNN2](https://saicoco.github.io/object-detection-4/)
 
