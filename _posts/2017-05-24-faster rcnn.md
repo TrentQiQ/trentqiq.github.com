@@ -39,9 +39,9 @@ py-faster-rcnn工程上，默认使用的是cudnn-v4，如果直接使用cudnn-v
 
 ## 训练模型
 >[Faster-RCNN+ZF用自己的数据集训练模型(Python版本)](http://blog.csdn.net/sinat_30071459/article/details/51332084)
-
+>
 >[RCNN（六）：Ubuntu 15.04 使用Faster RCNN训练VOC](http://blog.csdn.net/u011587569/article/details/52166775)
-
+>
 >[Py-faster-rcnn实现自己的数据train和demo](http://blog.csdn.net/samylee/article/details/51201744)
 
 
@@ -72,5 +72,3 @@ layer {
 
 
 >[目标检测--Faster RCNN2](https://saicoco.github.io/object-detection-4/)
-
->[]()
