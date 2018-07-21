@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "线性分类笔记"
+subtitle:   "selective search提取OP"
+date:       2018-07-21
+author:     "QiQ"
+header-img: "img/BingWallpaper-2018-07-21.jpg"
+tags:
+    - Liner classifier
+    - Deep Learning
+---
+
 # 概念
 ---
 ### SIFT
@@ -21,7 +33,7 @@ SIFT（Scale-invariant feature transform）是一种检测局部特征的算法�
 
 ![image](https://pic3.zhimg.com/80/3c69a5c87a43bfb07e2b59bfcbd2f149_hd.jpg)
 
---- 
+---
 ## [线性分类笔记（中）](https://zhuanlan.zhihu.com/p/20945670)
 
 支持向量机，因其英文名为Support Vector Machine，故一般简称SVM，通俗来讲，它是一种二类分类模型，其基本模型定义为特征空间上的间隔最大的线性分类器，其学习策略便是间隔最大化，最终可转化为一个凸二次规划问题的求解。
