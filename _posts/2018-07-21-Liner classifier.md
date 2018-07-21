@@ -18,7 +18,7 @@ SIFT（Scale-invariant feature transform）是一种检测局部特征的算法�
 
 不知道大家在学车的时候教练教倒库和侧方停车的时候有没有教一串口诀：类似于在车窗的XX框切XX杆的时候打满，切XX的时候回正等等，这个口诀可以顺利让你通过科目二，然而换个车或者换个场地，你就发现并没有卵用... 我们说这只是overfit了某个车和某个场地（训练数据），在新的测试集（新车新场地）上的泛化性能为0。
 
-![image](https://pic2.zhimg.com/80/afa034d52962681db09b4dc1060f8075_hd.png)
+![image](img/afa034d52962681db09b4dc1060f8075_hd.png)
 
 图像基础CS231a或CS131
 机器学习基础CS229
