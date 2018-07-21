@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "线性分类笔记"
-subtitle:   "selective search提取OP"
+subtitle:   ""
 date:       2018-07-21
 author:     "QiQ"
 header-img: "img/BingWallpaper-2018-07-21.jpg"
