@@ -40,3 +40,7 @@ tags:
 > 3. [Markdown入门](http://sspai.com/25137) 由于之前没接触过markdown的语法，所以搜索了一篇markdown的一些基础命令介绍。windows下用的一个叫MarkdownPad2的软件，可以实现实时预览，效果不错。
 
 *本地环境搭建好后，便可以在本地进行页面效果的测试，测试完成后再将修改后的文件通过git统一提交到github。毕竟修改一点然后提交查看效果不满意再重新修改提交的过程也是挺麻烦，在本地测试完一次性提交也能减少麻烦。*
+
+---
+## 其他
+[Bing首页壁纸获取](https://link.zhihu.com/?target=http%3A//area.sinaapp.com/bingImg/)
